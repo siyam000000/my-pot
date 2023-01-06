@@ -1,0 +1,163 @@
+*{
+    margin: 0%;
+    font-family: 'Open Sans', sans-serif;
+}
+.header{
+    display: flex;
+    background-image: url('/images/donation1.jpg');
+    width: 1440px;
+    height: 669px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+.div1{
+    margin: 175px 310px;
+    
+}
+#head-title{
+    color: #FFFFFF;
+    font-size: 65px;
+    font-weight: 700;
+    text-align: center;
+    margin-bottom: 20px;
+}
+#head-pra{
+    color: #FFFFFF;
+    font-size: 25px;
+    text-align: center;
+    margin-bottom: 30px;
+}
+.pro-btn{
+    width: 160px;
+    height: 56px;
+    background-color: #FF5959;
+    border-radius: 5px;
+    border: 0;
+    font-weight: 600;
+    font-size: 20px;
+    color: #FFFFFF;
+   
+   margin-left: 75px;
+}
+
+.main{
+    margin: 130px 560px;
+}
+.hed-today{
+        text-align: center;
+        color: #121212;
+        font-weight: 700;
+        font-size: 45px;
+        height: 54px;
+        width: 304px;
+
+}
+
+.dis{
+    text-align: center;
+    /* font-size: 20px; */
+    font-weight: 400;
+    color: #707070;
+    margin-bottom: 30px;
+    
+    
+}
+
+/* donate plane */
+.hedp{
+    margin: 130px 375px;
+}
+
+.donate-title{
+    text-align: center;
+    color: #121212;
+    font-weight: 700;
+    font-size: 45px;
+    margin-bottom: 15px;
+}
+.donate-pra{
+    text-align: center;
+    font-size: 20px;
+    color: #707070;
+}
+
+
+.div-donate{
+    display: flex;
+    margin: 50px 150px;
+}
+.divFood{
+    padding: 145px 22px 55px;
+    background-color: #4f9da65e;
+    
+}
+.divShelter{
+    padding: 145px 22px 55px;
+    background-color: #ff59595d;
+   
+}
+.divEducation{
+    padding: 145px 22px 55px;
+    background-color: #fff4d670;
+   
+}
+.eduh{
+    font-size: 24px;
+    font-weight: 600;
+    color: hsl(0, 0%, 7%);
+}
+.edup{
+    color: #707070;
+}
+
+.donatesec{
+    display: flex;
+    margin: 182px 156px;
+
+
+}
+.img-donate{
+    height: 477px;
+    width: 456px;
+    
+}
+.dolor-title{
+    font-size: 45px;
+    font-weight: 700;
+    color: #121212;
+    margin-bottom: 5px;
+}
+.dolor-pra{
+    font-size: 20px;
+    color: #707070;
+}
+.btn-sec{
+    background-color: #FF5959;
+    border-radius: 5px;
+    border: 0;
+    width: 230px;
+    height: 56px;
+    font-size: 20px;
+    font-weight: 600;
+    color: #FFFFFF;
+    margin-top: 30px;
+}
+/* dolor sec ami ei jayga bal korchi */
+.donate-sec{
+    display: flex;
+    margin: 182px 156px;
+}
+.dolor-sec{
+    margin-left: 90px;
+}
+.dolor-title-sec{
+    font-size: 45px;
+    font-weight: 700;
+    color: #121212;
+    margin-bottom: 5px;
+}
+.dolor-pra-sec{
+    font-size: 20px;
+    color: #707070;
+}
